@@ -1,2 +1,2 @@
 # Sample_Website
-Website for Lokalite
+Sample Site for the XYZ Frim.
